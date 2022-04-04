@@ -6,7 +6,7 @@ Publication of the data used for "Formal Concept Analysis meets grammar typology
 
 1. original version [PDF](https://www.anlp.jp/proceedings/annual_meeting/2015/pdf_dir/E1-2.pdf)
 
-2. revised, enlarged version [PDF](https://www.dropbox.com/s/cj80prt2jq15wnq/FCA-meets-typology-nlp21-rev1.pdf?dl=0)
+2. revised, enlarged (but unpublished) version [PDF](https://www.dropbox.com/s/cj80prt2jq15wnq/FCA-meets-typology-nlp21-rev1.pdf?dl=0)
 
 
 # data
