@@ -1,0 +1,16 @@
+has_definite_art,has_indefinite_art,N_encodes_plurality,N_encodes_class,N_encodes_case,relative_cl_follows_N,has_postpositions,has_prepositions,A_agrees_w_Nplurality,A_agrees_w_Nclass,A_agrees_w_Ncase,A_follows_N,O_must_follow_V,requires_Subj,V_agrees_w_Subj,V_encodes_plurality,V_encodes_class,V_encodes_voice,V_encodes_tense,V_encodes_person,V_encodes_aspect,V_infinitive_is_derived,V_agrees_w_Obj,tense_agreesment
+Bulgarian,1,0,1,1,0,1,0,1,1,1,0,0,0,0,1,1,0,1,1,1,1,0,0,0
+Chinese,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+Czech,0,0,1,1,1,1,0,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,0,0
+English,1,1,1,0,0,1,0,1,0,0,0,0,1,1,1,0,0,1,1,1,0,1,0,1
+Finnish,0,0,1,0,1,1,1,1,1,0,1,0,0,0,1,1,0,1,1,1,0,1,0,0
+French,1,1,1,1,0,1,0,1,1,1,0,1,1,1,1,1,0,1,1,1,0,1,0,1
+German,1,1,1,1,1,1,0,1,1,1,1,0,0,1,1,1,0,1,1,1,0,1,0,1
+Hebrew,1,0,1,1,0,1,0,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,0,0
+Hungarian,1,1,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,1,1,1,0
+Japanese,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0
+Korean,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0
+Latin,0,0,1,1,1,1,0,1,1,1,1,1,0,0,1,1,0,1,1,1,0,1,0,1
+Russian,0,0,1,1,1,1,0,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,0,0
+Swahili,0,0,1,1,0,1,0,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,0
+Tagalog,0,0,0,0,0,1,0,1,0,0,0,1,1,0,1,0,1,1,0,0,1,0,1,0
