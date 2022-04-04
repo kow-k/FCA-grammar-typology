@@ -11,11 +11,11 @@ Publication of the data used for "Formal Concept Analysis meets grammar typology
 
 # data
 
-The formal context (data22) used in the original paper (1):
+The formal context (data22) used in the original and revised papers (1):
 
 3. [formal context (.csv)](fc-typology-data22.csv)
 
-The formal context (data25) used in the revised paper (2):
+The formal context (data25), most updated version:
 
 4. [formal context (.csv)](fc-typology-data25.csv)
 
