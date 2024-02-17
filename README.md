@@ -15,26 +15,22 @@ The formal context (data22) used in the original and revised papers (1):
 
 3. [formal context (.csv)](fc-typology-data22.csv)
 
-The formal context (data26), most updated version:
+The formal context (data26x, where x is variable), most updated version:
 
-4. [formal context (.csv)](fc-typology-data26.csv)
+4. [formal context (.csv)](fc-typology-data26c.csv)
 
 Excel workbook used to construct formal contexts (4):
 
 5. [FC builder (.xlsx)](fc-typology-data-generator-rev1.xlsx)
 
-The (optimal) lattice/Hasse diagram for data26 created by Concept Explorer 1.3:
-
-6. [Hasse diagram (.png)](lattice-data26-optimal.png)
-
 The (nearly optimal) lattice/Hasse diagram for data26 created by Concept Explorer 1.3:
 
-7. [Hasse diagram (.png)](lattice-data26-nearly-optimal.png)
+6. [Hasse diagram (.png)](lattice-data26c-near-optimal.png)
 
 # slides used at presentation
 
-8. [PDF](https://www.dropbox.com/s/05zjec4t3iumwxf/FCA-meets-grammar-typology-nlp21-slides.pdf?dl=0)
+7. [PDF](https://www.dropbox.com/s/05zjec4t3iumwxf/FCA-meets-grammar-typology-nlp21-slides.pdf?dl=0)
 
 # FCA tools for visualization
 
-9. [Concept Explorer 1.3](http://conexp.sourceforge.net/)
+8. [Concept Explorer 1.3](http://conexp.sourceforge.net/)
