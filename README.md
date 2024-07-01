@@ -13,19 +13,19 @@ Publication of the data used for "Formal Concept Analysis meets grammar typology
 
 The formal context (data22) used in the original and revised papers (1):
 
-3. [formal context (.csv)](fc-typology-data22.csv)
+3. [formal context (.csv)](data/fc-typology-data22.csv)
 
 The formal context (data26x, where x is variable), most updated version:
 
-4. [formal context (.csv)](fc-typology-data26c.csv)
+4. [formal context (.csv)](data/fc-typology-data26c.csv)
 
 Excel workbook used to construct formal contexts (4):
 
-5. [FC builder (.xlsx)](fc-typology-data-generator-rev1.xlsx)
+5. [FC builder (.xlsx)](data/fc-typology-data-generator-rev1.xlsx)
 
 The (nearly optimal) lattice/Hasse diagram for data26 created by Concept Explorer 1.3:
 
-6. [Hasse diagram (.png)](lattice-data26c-near-optimal.png)
+6. [Hasse diagram (.png)](results/lattice-data26c-near-optimal.png)
 
 # slides used at presentation
 
