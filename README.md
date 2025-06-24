@@ -21,7 +21,7 @@ The formal context (data26x, where x is variable), most updated version:
 
 Excel workbook used to construct formal contexts (4):
 
-5. [FC builder (.xlsx)](data/fc-typology-data-generator-rev1.xlsx)
+5. [FC builder (.xlsx)](data/gen-fc-typology-data-rev1.xlsx)
 
 The (nearly optimal) lattice/Hasse diagram for data26 created by Concept Explorer 1.3:
 
